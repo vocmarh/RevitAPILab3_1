@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"\\nut\home\s.hramcov\Desktop\RevitAPITraining\RevitAPILab3_1.dll"</Assembly>
+		<AddInId>DB307089-9FAF-4B19-B5EB-61A67F441C70</AddInId>
+		<FullClassName>RevitAPILab3_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Получение объема стен</Text>
+	</AddIn>
+</RevitAddIns>
